@@ -1,0 +1,18 @@
+
+title: Recognizing Multimodal Entailment
+
+copyright: Copyright © 2021
+
+description: >- # this means to ignore newlines until "baseurl:"
+  Recognizing Multimodal Entailment
+  at ACL-IJCNLP 2021: The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing.
+
+baseurl: ""
+url: "https://multimodal-entailment.github.io/"
+
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+
+plugins:
+  - jekyll-spaceship
